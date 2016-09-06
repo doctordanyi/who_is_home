@@ -15,7 +15,7 @@ localnet = "--localnet"
 timeout = "--timeout"
 retry = "--retry"
 
-timeout_val = "1000" # ms
+timeout_val = "100" # ms
 retry_val = "5"
 
 # XML configuration
